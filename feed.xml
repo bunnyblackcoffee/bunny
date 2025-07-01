@@ -8,15 +8,15 @@
     <language>en-us</language>
     <itunes:author>Bunny</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://bunnyblackcoffee.github.io/Bunny/cover.png" />
+    <itunes:image href="https://bunnyblackcoffee.github.io/bunny/cover.png" />
     <itunes:category text="Personal Journals"/>
 
 <item>
   <title>Personal Advice - July 1, 2025</title>
   <description>In this episode, Bunny shares a personal piece of advice and reflection.</description>
   <pubDate>Tue, 01 Jul 2025 00:00:00 GMT</pubDate>
-  <enclosure url="https://archive.org/download/advice-july-1/Advice_July1.mp3" length="59030256" type="audio/mpeg"/>
-  <guid>https://archive.org/download/advice-july-1/Advice_July1.mp3</guid>
+  <enclosure url="https://bunnyblackcoffee.github.io/bunny/" length="59030256" type="audio/mpeg"/>
+  <guid>https://bunnyblackcoffee.github.io/bunny/</guid>
 </item>
   </channel>
 </rss>
