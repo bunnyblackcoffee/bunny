@@ -2,13 +2,13 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Bunny’s Audio Journal</title>
+    <title>Personal Advice from Bunny</title>
     <link>https://bunnyblackcoffee.github.io/Bunny/</link>
     <description>A personal podcast from Bunny</description>
     <language>en-us</language>
     <itunes:author>Bunny</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://bunnyblackcoffee.github.io/Bunny/cover.jpg" />
+    <itunes:image href="https://bunnyblackcoffee.github.io/Bunny/cover.png" />
     <itunes:category text="Personal Journals"/>
 
     <item>
